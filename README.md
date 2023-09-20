@@ -20,7 +20,7 @@
 ## Setup in your local machine
 1. Clone project
 ```
-git clone https://github.com/morshedmasud/django-rest-framework-mysql-boilerplate
+git clone https://github.com/appstimesete/drf-starter-template.git
 ```
 2. Go to project root path and create virtualenv
 ```
